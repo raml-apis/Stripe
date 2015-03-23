@@ -25,7 +25,7 @@
 			"required":false
 		},
 		"charge": {
-			"type":"null",
+			"type":"string",
 			"id": "http://jsonschema.net/charge",
 			"required":false
 		},
@@ -55,7 +55,7 @@
 			"required":false
 		},
 		"ending_balance": {
-			"type":"null",
+			"type":"integer",
 			"id": "http://jsonschema.net/ending_balance",
 			"required":false
 		},

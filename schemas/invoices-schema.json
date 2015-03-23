@@ -116,7 +116,7 @@
                                             "required": false
                                         },
                                         "description": {
-                                            "type": "null",
+                                            "type": "string",
                                             "id": "http://jsonschema.net/lines/data/0/description",
                                             "required": false
                                         },
@@ -240,7 +240,7 @@
                         "required": false
                     },
                     "next_payment_attempt": {
-                        "type": "null",
+                        "type": "integer",
                         "id": "http://jsonschema.net/next_payment_attempt",
                         "required": false
                     },

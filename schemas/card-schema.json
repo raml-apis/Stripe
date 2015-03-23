@@ -50,7 +50,7 @@
             "required":false
         },
         "customer": {
-            "type":"null",
+            "type":"string",
             "id": "http://jsonschema.net/customer",
             "required":false
         },

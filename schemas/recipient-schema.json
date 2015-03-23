@@ -52,7 +52,7 @@
 			"required":false
 		},
 		"description": {
-			"type":"null",
+			"type":"string",
 			"id": "http://jsonschema.net/description",
 			"required":false
 		},

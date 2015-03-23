@@ -177,7 +177,7 @@
                             "required":false
                         },
                         "discount": {
-                            "type":"null",
+                            "type":"object",
                             "id": "http://jsonschema.net/data/0/discount",
                             "required":false
                         },

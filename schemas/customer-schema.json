@@ -157,12 +157,12 @@
             "required":false
         },
         "description": {
-            "type":"null",
+            "type":"string",
             "id": "http://jsonschema.net/description",
             "required":false
         },
         "discount": {
-            "type":"null",
+            "type":"object",
             "id": "http://jsonschema.net/discount",
             "required":false
         },
